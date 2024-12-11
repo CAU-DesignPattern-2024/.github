@@ -1,11 +1,9 @@
 ## 🗃️ Project Repository
----
 [Repository](https://github.com/CAU-DesignPattern-2024/rabbit-escape) <br/>
 Github Issue 17개 <br/>
 Pull Requests 20개
 
 ## 📌 Project Result
----
 1. Frame 클래스에 Builder 패턴 적용
 2. Cache 클래스에 Proxy 패턴 적용
 3. Solution 클래스에 Composite 패턴 적용
@@ -18,7 +16,6 @@ Pull Requests 20개
 10. WorldChanges 클래스에 Command 패턴 적용
 
 ## 🐥 Team
----
 | [유용민](https://github.com/yymin1022) | [채승운](https://github.com/win-luck) | [조도연](https://github.com/ysndy) | [고하영](https://github.com/hayeongKo) | [이지수](https://github.com/devJS00) |
 | --- | --- | --- | --- | --- |
 | <img src="image/profile_yymin1022.png" width="150" /> | <img src="image/profile_win-luck.png" width="150" /> | <img src="image/profile_ysndy.png" width="150" /> | <img src="image/profile_hayeongKo.png" width="150" /> | <img src="image/profile_devJS00.png" width="150" /> |
