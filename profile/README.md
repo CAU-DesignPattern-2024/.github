@@ -1,7 +1,8 @@
 ## 🗃️ Project Repository
 [Repository](https://github.com/CAU-DesignPattern-2024/rabbit-escape) <br/>
 Github Issue 17개 <br/>
-Pull Requests 20개
+Pull Requests 21개
+Commit 144개
 
 ## 📌 Project Result
 1. Frame 클래스에 Builder 패턴 적용
